@@ -20,7 +20,8 @@ public class BMICalculator {
         } else {
             System.out.println("You are obese!");
         }
-
+        // https://www.javatpoint.com/javafx-textfield
+        // link is to look at the documentation on how to use JavaFX appropriately
 
     }
 }
